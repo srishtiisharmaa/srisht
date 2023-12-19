@@ -1,6 +1,6 @@
 # Wordle-anche
 
-Welcome to Wordle-anche! This project is a combination of Wordle and an avalanche of word-guessing fun.
+Welcome to Wordle-anche! This assignment is a combination of Wordle and an avalanche of word-guessing fun.
 
 ## Overview
 
